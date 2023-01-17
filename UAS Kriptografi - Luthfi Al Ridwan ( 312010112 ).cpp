@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-//#include <cstdlib>
+#include <cstdlib>
 std::string XOREncryption(std::string plaintext, std::string key) {
 std::string ciphertext;
 // XOR plaintext dengan key
