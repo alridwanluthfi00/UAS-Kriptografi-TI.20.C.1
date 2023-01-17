@@ -1,4 +1,4 @@
-# UAS-Kriptografi-TI.20.C.1\
+# UAS-Kriptografi-TI.20.C.1
 
 # Nama            : Luthfi Al Ridwan
 # NIM             : 312010112
